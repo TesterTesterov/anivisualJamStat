@@ -18,9 +18,11 @@ Just run the tool and after some time you'll get data about how many topics were
 2. Install [requests](https://pypi.org/project/requests/) library via pip.
 3. Install [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) library via pip.
 4. Install [fake_useragent](https://pypi.org/project/fake-useragent/) library via pip.
+5. Install [lxml](https://pypi.org/project/lxml/) library via pip.
 
 # Russian
 1. Установите [Python 3](https://www.python.org/downloads/).
 2. Установите библиотеку [requests](https://pypi.org/project/requests/) с помощью pip.
 3. Установите библиотеку [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) с помощью pip.
 4. Установите библиотеку [fake_useragent](https://pypi.org/project/fake-useragent/) с помощью pip.
+5. Установите библиотеку [lxml](https://pypi.org/project/lxml/) с помощью pip.
