@@ -111,6 +111,7 @@ def main():
                     first_day_count += 1
         print(jam['str'][jam_num])
         print(first_day_count, 'за первый день и ранее (до 2-го дня).')
+    input()
 
 if __name__ == '__main__':
     main()
